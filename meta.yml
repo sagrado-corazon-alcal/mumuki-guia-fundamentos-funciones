@@ -18,4 +18,5 @@ teacher_info: |-
   [1] Entendiéndolo así, las funciones son la extensión que nos permite combinar las expresiones primitivas o simples que ya conocíamos para lograr operaciones más complejas o simplemente ponerle nombre a pequeñas tareas. Para entender esto último, es necesario hablar de **dominios**, contando que mediante la abstracción (hasta ahora de procedimientos y desde ahora de funciones) podemos utilizar las bolitas como **representación** de cualquier problema que se nos ocurra: un partido de fútbol, una mesa de apuestas, una batalla entre unitarios y federales, etc.
 language: gobstones
 id_format: '%05d'
-order: []
+order:
+- 1
