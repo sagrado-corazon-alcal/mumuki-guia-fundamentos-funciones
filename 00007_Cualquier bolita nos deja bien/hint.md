@@ -1,0 +1,1 @@
+Recordá que existe la función `hayBolitas(color)`, que indica si hay alguna bolita del color especificado.
