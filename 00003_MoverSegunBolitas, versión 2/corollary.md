@@ -1,0 +1,1 @@
+Las **funciones** son una herramienta más que nos ayudan a escribir programas de mayor calidad. Sólo mirando el código podemos entender de qué va nuestro problema, lo que **reduce la distancia** entre el problema real y la **estrategia** que elegimos para resolverlo.
