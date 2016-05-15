@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: estoyEnUnBorde
+  inspection: HasUsage:puedeMover
