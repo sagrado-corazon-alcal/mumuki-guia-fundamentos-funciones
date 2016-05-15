@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: todasMenos
+  inspection: HasArity:1
+- binding: todasMenos
+  inspection: HasUsage:nroBolitasTotal
