@@ -7,12 +7,12 @@ teacher_info: |-
   ### Objetivos principales
 
   * Explicar la sintaxis nueva: primera letra minúscula, palabra clave `function`, `return` en la última línea.
-  * Mencionar los **tipos** como conjuntos de elementos sobre los cuales tiene sentido realizar ciertas operaciones.
   * Introducir las funciones como una forma de nombrar expresiones compuestas, lo cual nos permite ganar en términos de abstracción, declaratividad y expresividad. [1]
   * Funciones con procesamiento, como forma de calcular cosas que necesitan salir de la celda actual. Procesamiento "simulado".
 
   ### Objetivos secundarios
 
+  * Mencionar los **tipos** como conjuntos de elementos sobre los cuales tiene sentido realizar ciertas operaciones.
   * Expresiones booleanas complejas: `&&` y `||`.
 
   [1] Entendiéndolo así, las funciones son la extensión que nos permite combinar las expresiones primitivas o simples que ya conocíamos para lograr operaciones más complejas o simplemente ponerle nombre a pequeñas tareas. Para entender esto último, es necesario hablar de **dominios**, contando que mediante la abstracción (hasta ahora de procedimientos y desde ahora de funciones) podemos utilizar las bolitas como **representación** de cualquier problema que se nos ocurra: un partido de fútbol, una mesa de apuestas, una batalla entre unitarios y federales, etc.
@@ -26,4 +26,3 @@ order:
 - 5
 - 6
 - 7
-- 8

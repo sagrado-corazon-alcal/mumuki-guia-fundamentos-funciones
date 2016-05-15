@@ -1,1 +1,0 @@
-Si el cabezal está en un borde, **no** se **puede mover** en **alguna** dirección. :smirk:
