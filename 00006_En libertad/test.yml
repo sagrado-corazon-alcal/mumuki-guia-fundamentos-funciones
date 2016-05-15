@@ -3,12 +3,12 @@ subject: esLibreCostados
 examples:
  - initial_board: |
      GBB/1.0
-     size 3 3
+     size 3 2
      head 0 0
    return: 'False'
  
  - initial_board: |
      GBB/1.0
-     size 3 3
+     size 3 2
      head 1 1
-   return: 'False'
+   return: 'True'
