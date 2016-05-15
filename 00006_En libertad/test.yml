@@ -10,5 +10,5 @@ examples:
  - initial_board: |
      GBB/1.0
      size 3 2
-     head 1 1
+     head 0 1
    return: 'True'
