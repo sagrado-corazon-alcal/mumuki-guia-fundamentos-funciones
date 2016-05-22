@@ -32,4 +32,4 @@ examples:
      size 5 2
      cell 0 0 Verde 1
      head 4 0
-   return: 'True'   
+   return: 'False'   
