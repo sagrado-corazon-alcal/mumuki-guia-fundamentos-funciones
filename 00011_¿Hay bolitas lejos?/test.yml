@@ -2,7 +2,7 @@ subject: hayBolitasLejosAl
 
 examples:
  - arguments:
-   - Este
+   - Norte
    - Rojo
    - 2
    initial_board: |
