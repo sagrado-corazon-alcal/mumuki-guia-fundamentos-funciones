@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: hayBolitas
+- binding: hayBolitasAl
   inspection: HasArity:2
-- binding: hayBolitas
+- binding: hayBolitasAl
   inspection: HasUsage:Mover
