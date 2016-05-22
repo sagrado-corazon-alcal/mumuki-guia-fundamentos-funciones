@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: hayBolitasAl
+  inspection: HasArity:2
