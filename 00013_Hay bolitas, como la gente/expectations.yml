@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: hayTableroYBolitasAl
+  inspection: HasUsage:hayBolitasAl
+- binding: hayTableroYBolitasAl
+  inspection: HasUsage:puedeMover
