@@ -17,9 +17,7 @@ examples:
      head 0 0
    return: 'True'
    
- - arguments:
-   - Negro
-   initial_board: |
+ - initial_board: |
      GBB/1.0
      size 3 3
      cell 1 0 Rojo 1
