@@ -1,6 +1,6 @@
 ---
 name: Funciones
-locale: en
+locale: es
 type: learning
 beta: false
 teacher_info: |-
@@ -19,7 +19,7 @@ teacher_info: |-
 
   [1] Entendiéndolo así, las funciones son la extensión que nos permite combinar las expresiones primitivas o simples que ya conocíamos para lograr operaciones más complejas o simplemente ponerle nombre a pequeñas tareas.
 language: gobstones
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 2
