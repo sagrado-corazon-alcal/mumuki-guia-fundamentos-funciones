@@ -11,4 +11,4 @@ Pero, ups, hay un problema más; hay que hacer DOS preguntas: ¿se **puede mover
 
 Bueno, existe el operador `&&` que sirve justamente para eso: toma dos expresiones booleanas y devuelve `True` solo si **ambas** son verdaderas. Si sabés algo de lógica, esto es lo que comunmente se denomina **conjunción** y se lo suele representar con el símbolo ∧.
 
-> Resumiendo: implementá la función `esLibreCostados()` que indique si el cabezal puede moverse tanto al Este como al Oeste.
+> Implementá la función `esLibreCostados()` que indique si el cabezal puede moverse tanto al Este como al Oeste.
