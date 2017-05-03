@@ -4,7 +4,7 @@ Entonces, lo que nos está faltando es algún mecanismo para poder **darle un no
 
 La buena noticia es que Gobstones nos permite hacer esto, y la herramienta para ello es construir una **función**, que se escribe así:
 
-```puppet
+```gobstones
 function nroBolitasTotal() {
   return (nroBolitas(Azul) + nroBolitas(Negro) + nroBolitas(Rojo) + nroBolitas(Verde))
 }
