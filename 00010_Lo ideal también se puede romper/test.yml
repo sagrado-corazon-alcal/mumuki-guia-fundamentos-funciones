@@ -22,3 +22,4 @@ examples:
      cell 0 1 Rojo 1
      head 0 0
    error: out_of_board
+  
