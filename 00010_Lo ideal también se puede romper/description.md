@@ -2,4 +2,4 @@ Como en la definición de `hayBolitasAl` se usa `Mover`, es obvio que hay casos 
 
 Pero, ¿no era que las funciones eran **puras** y **no tenían efecto real**? ¿Qué pasa si una función **hace BOOM**?
 
-> Hagamos la prueba: volvé a escribir la función `hayBolitasAl` del ejercicio anterior, esta vez la probaremos con casos donde no pueda moverse el cabezal.
+> Hagamos la prueba: vamos a probar la función `hayBolitasAl` del ejercicio anterior con casos donde no pueda moverse el cabezal. Presioná Enviar y mirá el resultado.
