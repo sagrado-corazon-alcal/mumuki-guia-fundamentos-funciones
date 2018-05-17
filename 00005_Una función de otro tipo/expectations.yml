@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: rojoEsDominante
-  inspection: HasUsage:todasMenos
+  inspection: HasUsage:todasExcepto

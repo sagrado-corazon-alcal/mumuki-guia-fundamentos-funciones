@@ -2,6 +2,6 @@ function nroBolitasTotal() {
   return (nroBolitas(Azul) + nroBolitas(Negro) + nroBolitas(Rojo) + nroBolitas(Verde))
 }
 
-function todasMenos(color) {
+function todasExcepto(color) {
     return (nroBolitasTotal() - nroBolitas(color))
 }
