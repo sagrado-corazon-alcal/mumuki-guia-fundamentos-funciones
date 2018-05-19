@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: estoyLimitada
+- binding: hayLimite
   inspection: HasUsage:estoyRodeadoDe
-- binding: estoyLimitada
+- binding: hayLimite
   inspection: HasUsage:estoyEnUnBorde
