@@ -2,4 +2,4 @@ Te toca ahora escribir tu primera función: `todasExcepto(color)`. Lo que tiene 
 
 Por ejemplo, `todasExcepto(Verde)` debería contar todas las bolitas azules, negras y rojas que hay en la celda actual (o dicho de otra forma: todas las bolitas que hay **menos** las verdes).
 
-> Creá la función `todasExcepto` para que devuelva la cantidad de bolitas que haya que **no** sean del color que se le pasa por parámetro.
+> Creá la función `todasExcepto` para que devuelva la cantidad de bolitas que **no** sean del color que se le pasa por parámetro.
