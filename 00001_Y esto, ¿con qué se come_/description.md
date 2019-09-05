@@ -10,4 +10,4 @@ procedure MoverSegunBolitas() {
 }
 ```
 
-Cuando lo logres interpretar (o te canses), presioná Enviar y mirá el resultado.
+> Cuando lo logres interpretar (o te canses :stuck_out_tongue_closed_eyes:), presioná _Enviar_ y mirá el resultado.

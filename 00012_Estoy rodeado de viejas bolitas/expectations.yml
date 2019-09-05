@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: estoyRodeadoDe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: estoyRodeadoDe
   inspection: HasUsage:hayBolitasAl

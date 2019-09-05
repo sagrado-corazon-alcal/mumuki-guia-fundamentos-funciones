@@ -1,6 +1,0 @@
----
-expectations:
-- binding: MoverSegunBolitas
-  inspection: HasIf
-- binding: MoverSegunBolitas
-  inspection: HasUsage:nroBolitas

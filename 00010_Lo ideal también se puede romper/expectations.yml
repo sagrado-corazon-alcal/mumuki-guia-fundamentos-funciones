@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: hayBolitasAl
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayBolitasAl
   inspection: HasArity:2
-- binding: hayBolitasAl
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayBolitasAl
   inspection: HasUsage:Mover

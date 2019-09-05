@@ -3,21 +3,6 @@ name: Funciones
 locale: es
 type: learning
 beta: false
-teacher_info: |-
-  ### Objetivos principales
-
-  * Explicar la sintaxis nueva: primera letra minúscula, palabra clave `function`, `return` en la última línea.
-  * Introducir las funciones como una forma de nombrar expresiones compuestas, lo cual nos permite ganar en términos de abstracción, declaratividad y expresividad. [1]
-  * Funciones con procesamiento, como forma de calcular cosas que necesitan salir de la celda actual. Procesamiento "simulado".
-
-  ### Objetivos secundarios
-
-  * Mencionar los **tipos** como conjuntos de elementos sobre los cuales tiene sentido realizar ciertas operaciones.
-  * Expresiones booleanas complejas: `&&` y `||`.
-  * Precedencia en booleanos
-  * Cortocircuito
-
-  [1] Entendiéndolo así, las funciones son la extensión que nos permite combinar las expresiones primitivas o simples que ya conocíamos para lograr operaciones más complejas o simplemente ponerle nombre a pequeñas tareas.
 language: gobstones
 id_format: "%05d"
 order:
@@ -35,3 +20,4 @@ order:
 - 12
 - 13
 - 14
+private: false

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: hayTableroYBolitasAl
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayTableroYBolitasAl
   inspection: HasUsage:hayBolitasAl
-- binding: hayTableroYBolitasAl
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayTableroYBolitasAl
   inspection: HasUsage:puedeMover

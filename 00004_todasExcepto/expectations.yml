@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: todasExcepto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: todasExcepto
   inspection: HasArity:1
-- binding: todasExcepto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: todasExcepto
   inspection: HasUsage:nroBolitasTotal
