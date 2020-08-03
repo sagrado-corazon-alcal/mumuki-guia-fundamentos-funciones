@@ -23,4 +23,4 @@ Pero en este otro:
 
 `rojoEsDominante()` **retorna** `True` (hay 9 bolitas rojas contra 8 de otros colores)
 
-> Definí la función `rojoEsDominante()` que nos diga si cantidad de bolitas rojas **es mayor** que la suma de las bolitas de los otros colores. En la _Biblioteca_ está `todasExcepto(color)` lista para ser invocada. :wink:
+> Definí la función `rojoEsDominante()` que nos diga si la cantidad de bolitas rojas **es mayor** que la suma de las bolitas de los otros colores. En la _Biblioteca_ está `todasExcepto(color)` lista para ser invocada. :wink:
