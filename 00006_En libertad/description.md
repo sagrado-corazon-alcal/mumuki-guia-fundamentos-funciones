@@ -1,4 +1,4 @@
-Queremos escribir la función `esLibreCostados()`, que determine si el cabezal tiene libertad para moverse hacia los costados (es decir, Este y Oeste).
+Queremos definir la función `esLibreCostados()`, que determine si el cabezal tiene libertad para moverse hacia los costados (es decir, Este y Oeste).
 
 Antes que nada, pensemos, ¿qué **tipo** tiene que denotar nuestra función? Será...
 
@@ -17,4 +17,4 @@ Por ejemplo, si quisieramos saber si un casillero tiene más de 5 bolitas y el `
 nroBolitasTotal() > 5 && rojoEsDominante()
 ```
 
-> Implementá la función `esLibreCostados()` que indique si el cabezal puede moverse tanto al Este como al Oeste.
+> Definí la función `esLibreCostados()` que indique si el cabezal puede moverse tanto al Este como al Oeste.
