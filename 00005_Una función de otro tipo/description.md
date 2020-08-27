@@ -1,4 +1,4 @@
-Como ya sabés, las expresiones no sólo sirven para operar con números. Vamos a construir ahora una función que retorne un valor **booleano** (`True` / `False`).
+Como ya sabés, las expresiones no sólo sirven para operar con números. Vamos a definir ahora una función que retorne un valor **booleano** (`True` / `False`).
 
 Lo que queremos averiguar es si el color `Rojo` es dominante dentro de una celda. Veamos algunos ejemplos. 
 
