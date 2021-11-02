@@ -14,6 +14,29 @@ examples:
    return: 'True'
 
  - arguments:
+   - Negro
+   initial_board: |
+     GBB/1.0
+     size 3 3
+     cell 0 1 Negro 1
+     cell 1 0 Negro 1
+     cell 1 2 Negro 1
+     cell 2 1 Negro 1
+     head 1 1
+   return: 'True'
+
+ - arguments:
+   - Rojo
+   initial_board: |
+     GBB/1.0
+     size 3 3
+     cell 0 1 Rojo 1
+     cell 1 2 Rojo 1
+     cell 2 1 Rojo 1
+     head 1 1
+   return: 'False'
+
+ - arguments:
    - Verde
    initial_board: |
      GBB/1.0

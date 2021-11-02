@@ -4,7 +4,7 @@ Te toca programar una nueva versión de `hayBolitasAl` que mire si hay bolitas a
 
 Por ejemplo: `hayBolitasLejosAl(Norte, Verde, 4)` indica si hay alguna bolita Verde cuatro celdas al Norte de la posición actual.
 
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Para este tablero devolvería <em>True</em>:</th>
