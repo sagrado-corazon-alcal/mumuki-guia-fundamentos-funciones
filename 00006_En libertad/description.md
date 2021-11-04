@@ -1,6 +1,6 @@
 Queremos definir la función `esLibreCostados()`, que determine si el cabezal tiene libertad para moverse hacia los costados (es decir, Este y Oeste).
 
-Antes que nada, pensemos, ¿qué **tipo** tiene que denotar nuestra función? Será...
+Antes que nada, pensemos, ¿de qué **tipo** tiene que ser el valor que retorna nuestra función? Será...
 
 * ... ¿un **color**? No.
 * ... ¿un **número**? Tampoco.
@@ -14,7 +14,9 @@ Bueno, existe el operador `&&` que sirve justamente para eso: toma dos expresion
 Por ejemplo, si quisieramos saber si un casillero tiene más de 5 bolitas y el `Rojo` es el color dominante podríamos escribir:
 
 ``` gobstones
-nroBolitasTotal() > 5 && rojoEsDominante()
+function esUnCasilleroCargadoConRojoDominante() {
+  return (nroBolitasTotal() > 5 && rojoEsDominante())
+}
 ```
 
 > Definí la función `esLibreCostados()` que indique si el cabezal puede moverse tanto al Este como al Oeste.
