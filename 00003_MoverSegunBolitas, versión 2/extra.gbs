@@ -1,3 +1,11 @@
 function nroBolitasTotal() {
+  /*
+<elipsis-for-student@
+*/
+
   return (nroBolitas(Azul) + nroBolitas(Negro) + nroBolitas(Rojo) + nroBolitas(Verde))
+/*
+@elipsis-for-student>
+*/ 
+
 }
