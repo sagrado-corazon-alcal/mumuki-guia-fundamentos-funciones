@@ -1,4 +1,4 @@
-Como vimos, el problema de lo anterior era la falta de **división en subtareas**: la **expresión** que cuenta la cantidad de bolitas que hay en la celda es demasiado **compleja**, y cuesta entender a simple vista que hace eso.
+El problema anterior era la falta de **división en subtareas**: la **expresión** que cuenta la cantidad de bolitas que hay en la celda es demasiado **compleja**, y cuesta entender rápidamente que hace eso.
 
 Entonces, lo que nos está faltando es algún mecanismo para poder **darle un nombre** a esa **expresión compleja**; algo análogo a los **procedimientos** pero que sirva para encapsular expresiones. 
 
