@@ -5,7 +5,7 @@ Antes que nada, pensemos, ¿de qué **tipo** tiene que ser el valor que retorna 
 * ... ¿un **color**? No.
 * ... ¿un **número**? Tampoco.
 * ... ¿una **dirección**? Podría, pero no. Fijate que lo que pide es _"saber si puede moverse"_ y no hacia dónde.
-* ... ¿un **booleano**? ¡Sí! :tada: Cómo nos dimos cuenta: lo que está pidiendo tiene pinta de **pregunta** que se responde con sí o no, y eso es exactamente lo que podemos representar con un valor booleano: **Verdadero** o **Falso**.
+* ... ¿un **booleano**? ¡Sí! :tada: Cómo nos dimos cuenta: lo que está pidiendo parece ser una **pregunta** que se responde con sí o no, y eso es exactamente lo que podemos representar con un valor booleano: **Verdadero** o **Falso**.
 
 Pero, ups, hay un problema más; hay que hacer DOS preguntas: ¿se **puede mover** al Este? **Y** ¿se **puede mover** al Oeste?. :fearful:
 
