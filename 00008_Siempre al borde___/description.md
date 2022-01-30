@@ -1,4 +1,4 @@
-Te recordamos los operadores lógicos que vimos hasta ahora:
+Te recordamos los operadores lógicos que presentamos hasta ahora:
 
 * **Negación:** _"da vuelta"_ una expresión booleana - ejemplo: `not hayBolitas(Rojo)`.
 * **Conjunción:** determina si se cumplen **ambas** condiciones - ejemplo: `puedeMover(Norte) && puedeMover(Sur)`.
