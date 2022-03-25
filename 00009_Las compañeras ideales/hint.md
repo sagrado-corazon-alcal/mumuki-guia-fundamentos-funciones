@@ -1,1 +1,1 @@
-Acordate que el cabezal sólo puede investigar **la celda actual**. Por lo tanto, si lo que queremos es saber si **hay bolitas** al lado, primero habrá que **moverse** en esa dirección.
+Acordate que el cabezal sólo puede investigar **la celda actual**. Por lo tanto, si lo que queremos es saber si **hay bolitas** al lado, primero habrá que **moverse** en esa dirección, no te preocupes por que el cabezal caiga fuera del tablero.
